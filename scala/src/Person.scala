@@ -4,3 +4,5 @@
 class Person {
 
 }
+
+object Person{}
